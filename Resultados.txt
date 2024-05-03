@@ -1,0 +1,100 @@
+Solicitud número0001
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0002
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0003
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0004
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0005
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0006
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0007
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0008
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0009
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0010
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0011
+LowR: 0.0MediumR: 0.0HighR: 1
+Solicitud número0012
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0013
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0014
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0015
+LowR: 0.0MediumR: 0.5HighR: 0.5
+Solicitud número0016
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0017
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0018
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0019
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0020
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0021
+LowR: 0.0MediumR: 0.0HighR: 1
+Solicitud número0022
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0023
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0024
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0025
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0026
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0027
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0028
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0029
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0030
+LowR: 0.0MediumR: 0.0HighR: 1
+Solicitud número0031
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0032
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0033
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0034
+LowR: 0.0MediumR: 0.5HighR: 1
+Solicitud número0035
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0036
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0037
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0038
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0039
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0040
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0041
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0042
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0043
+LowR: 0.5MediumR: 0.0HighR: 0.0
+Solicitud número0044
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0045
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0046
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0047
+LowR: 0.0MediumR: 1HighR: 1
+Solicitud número0048
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0049
+LowR: 0.0MediumR: 0.0HighR: 0.0
+Solicitud número0050
+LowR: 0.0MediumR: 0.0HighR: 0.0
