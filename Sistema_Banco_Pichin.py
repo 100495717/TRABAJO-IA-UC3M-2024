@@ -1,9 +1,8 @@
 from MFIS_Read_Functions import readFuzzySetsFile, readRulesFile, readApplicationsFile
 from MFIS_Classes import FuzzySet, FuzzySetsDict
 
-import numpy as np
+
 import skfuzzy as fuzz
-import matplotlib.pyplot as plt
 
 
 def logica_borrosa(RuleList, FuzzySetsDict, Application,RisksDict):
@@ -12,7 +11,6 @@ def logica_borrosa(RuleList, FuzzySetsDict, Application,RisksDict):
 
         antecedentes = regla.antecedent
         consecuente = regla.consequent
-
 
         s = 1
 
@@ -28,12 +26,6 @@ def logica_borrosa(RuleList, FuzzySetsDict, Application,RisksDict):
 
         if RisksDict[consecuente] < s:
             RisksDict[consecuente] = s
-
-
-
-
-
-
 
     return RisksDict
 
