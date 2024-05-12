@@ -17,11 +17,10 @@ def logica_borrosa(RuleList, FuzzySetsDict, Application,RisksDict):
         s = 1
 
         for antecedente in antecedentes:
-            print(antecedente)
+
             fuzzy = FuzzySetsDict[antecedente]
             antecedent_value = next(data[1] for data in Application.data if data[0] == fuzzy.var)
-            print(antecedent_value)
-            print(fuzzy.x[-1])
+
 
             if antecedente == "Age=Young" or antecedente == "Age=Elder" or antecedente == "Age=Adult":
                 if fuzzy.x[-1] == antecedent_value -1:
