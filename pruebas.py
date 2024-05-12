@@ -1,4 +1,4 @@
-from Sistema_Banco_Pichin import logica_borrosa
+from Código_fuente import logica_borrosa
 from MFIS_Read_Functions import readFuzzySetsFile, readRulesFile, readApplicationsFile
 
 Rules = readRulesFile()
