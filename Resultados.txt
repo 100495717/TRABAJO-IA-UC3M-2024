@@ -1,100 +1,150 @@
 Solicitud 0001
 LowR: 0 MediumR: 0.5 HighR: 0.5
+Centroide: 58.13496932515337
 Solicitud 0002
-LowR: 0 MediumR: 0.7 HighR: 0.5
+LowR: 0.5 MediumR: 0.7 HighR: 0.5
+Centroide: 50.08543417366943
 Solicitud 0003
-LowR: 0 MediumR: 0.7 HighR: 0.4
+LowR: 0 MediumR: 0.7 HighR: 1
+Centroide: 63.00154918667701
 Solicitud 0004
 LowR: 0 MediumR: 0.9333333333333333 HighR: 0
+Centroide: 52.01103057043807
 Solicitud 0005
-LowR: 0 MediumR: 0.1 HighR: 0.1
+LowR: 0 MediumR: 0.1 HighR: 0.3
+Centroide: 66.01502347417832
 Solicitud 0006
-LowR: 0 MediumR: 0.36666666666666664 HighR: 0
+LowR: 0 MediumR: 0.4 HighR: 1
+Centroide: 66.68819188191881
 Solicitud 0007
-LowR: 0 MediumR: 1 HighR: 0.9
+LowR: 0 MediumR: 1 HighR: 1
+Centroide: 61.49324324324324
 Solicitud 0008
 LowR: 0 MediumR: 1 HighR: 0.3
+Centroide: 54.62485779294654
 Solicitud 0009
 LowR: 0 MediumR: 0.7666666666666667 HighR: 0
+Centroide: 51.71265189421013
 Solicitud 0010
 LowR: 0 MediumR: 0.3333333333333333 HighR: 0.3333333333333333
+Centroide: 56.950396825396886
 Solicitud 0011
 LowR: 0 MediumR: 1 HighR: 1
+Centroide: 61.49324324324324
 Solicitud 0012
 LowR: 0.5 MediumR: 0.5 HighR: 0
+Centroide: 42.54901960784315
 Solicitud 0013
-LowR: 0 MediumR: 0.7 HighR: 0.7
+LowR: 0 MediumR: 0.7 HighR: 1
+Centroide: 63.00154918667701
 Solicitud 0014
 LowR: 0 MediumR: 0.8 HighR: 1
+Centroide: 62.31809242871188
 Solicitud 0015
 LowR: 0 MediumR: 0.5 HighR: 0.5
+Centroide: 58.13496932515337
 Solicitud 0016
 LowR: 0 MediumR: 1 HighR: 0.06666666666666667
+Centroide: 52.61166017769784
 Solicitud 0017
 LowR: 0 MediumR: 1 HighR: 0.3
+Centroide: 54.62485779294654
 Solicitud 0018
 LowR: 0 MediumR: 0.6 HighR: 0
+Centroide: 51.384615384615344
 Solicitud 0019
 LowR: 0 MediumR: 1 HighR: 1
+Centroide: 61.49324324324324
 Solicitud 0020
 LowR: 0.5 MediumR: 0.5 HighR: 0.3
+Centroide: 46.4790310918294
 Solicitud 0021
 LowR: 0 MediumR: 0.7666666666666667 HighR: 1
+Centroide: 62.52297702297704
 Solicitud 0022
-LowR: 0 MediumR: 1 HighR: 0.3333333333333333
+LowR: 1 MediumR: 1 HighR: 0.3333333333333333
+Centroide: 42.8734041842123
 Solicitud 0023
 LowR: 0.275 MediumR: 0.9666666666666667 HighR: 0
+Centroide: 49.056175729204135
 Solicitud 0024
 LowR: 0 MediumR: 1 HighR: 1
+Centroide: 61.49324324324324
 Solicitud 0025
-LowR: 0 MediumR: 1 HighR: 0
+LowR: 1 MediumR: 1 HighR: 0
+Centroide: 40.27848101265818
 Solicitud 0026
 LowR: 0 MediumR: 0.9 HighR: 0.06666666666666667
+Centroide: 52.479431721798115
 Solicitud 0027
-LowR: 0 MediumR: 0.3 HighR: 0
+LowR: 0 MediumR: 0.3 HighR: 1
+Centroide: 68.70590174744476
 Solicitud 0028
 LowR: 0 MediumR: 0.9666666666666667 HighR: 0.9666666666666667
+Centroide: 61.27964205816552
 Solicitud 0029
-LowR: 0 MediumR: 0 HighR: 0.9
+LowR: 0 MediumR: 1 HighR: 1
+Centroide: 61.49324324324324
 Solicitud 0030
 LowR: 0 MediumR: 0.8 HighR: 1
+Centroide: 62.31809242871188
 Solicitud 0031
 LowR: 0.05 MediumR: 1 HighR: 0
+Centroide: 51.66586646661661
 Solicitud 0032
 LowR: 0 MediumR: 0.3333333333333333 HighR: 0.3333333333333333
+Centroide: 56.950396825396886
 Solicitud 0033
 LowR: 0.25 MediumR: 1 HighR: 0
+Centroide: 49.46741765293024
 Solicitud 0034
 LowR: 0 MediumR: 0.5 HighR: 1
+Centroide: 65.12409812409813
 Solicitud 0035
 LowR: 0 MediumR: 0.9 HighR: 0.9
+Centroide: 60.84768211920535
 Solicitud 0036
-LowR: 0 MediumR: 0.16666666666666666 HighR: 0.3
+LowR: 0 MediumR: 0.875 HighR: 1
+Centroide: 61.9349245932787
 Solicitud 0037
 LowR: 0 MediumR: 0.9 HighR: 0
+Centroide: 51.956521739130444
 Solicitud 0038
 LowR: 0 MediumR: 0.7 HighR: 0.8666666666666667
+Centroide: 61.609182736455466
 Solicitud 0039
 LowR: 0 MediumR: 0.8 HighR: 1
+Centroide: 62.31809242871188
 Solicitud 0040
-LowR: 0 MediumR: 0.7 HighR: 0
+LowR: 0.2 MediumR: 0.7 HighR: 0
+Centroide: 49.06400575332611
 Solicitud 0041
-LowR: 0 MediumR: 0.5 HighR: 0.06666666666666667
+LowR: 0.5 MediumR: 0.5 HighR: 0.06666666666666667
+Centroide: 43.32573709282861
 Solicitud 0042
 LowR: 0 MediumR: 1 HighR: 0.3
+Centroide: 54.62485779294654
 Solicitud 0043
 LowR: 0.5 MediumR: 1 HighR: 0
+Centroide: 46.24183006535944
 Solicitud 0044
 LowR: 0 MediumR: 0.9333333333333333 HighR: 0.9333333333333333
+Centroide: 61.06444444444452
 Solicitud 0045
 LowR: 0.1 MediumR: 1 HighR: 0.3333333333333333
+Centroide: 54.00682153392325
 Solicitud 0046
 LowR: 0.425 MediumR: 0.7666666666666667 HighR: 0
+Centroide: 46.11295965171422
 Solicitud 0047
 LowR: 0 MediumR: 1 HighR: 1
+Centroide: 61.49324324324324
 Solicitud 0048
 LowR: 0.425 MediumR: 0.7666666666666667 HighR: 0.5
+Centroide: 51.37942652822666
 Solicitud 0049
 LowR: 0.325 MediumR: 1 HighR: 0.9
+Centroide: 57.206257877143905
 Solicitud 0050
 LowR: 0 MediumR: 0.23333333333333334 HighR: 0.23333333333333334
+Centroide: 56.22612085769984
